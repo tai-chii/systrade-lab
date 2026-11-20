@@ -6,14 +6,14 @@
 
 | 支持 | 棄却 | 未確定 | 記述・点検 | 記載なし・未実行 |
 |---|---|---|---|---|
-| 1 | 5 | 0 | 0 | 1 |
+| 1 | 5 | 0 | 1 | 0 |
 
 場所: FX 3・複数の資産 4
 
 | Q | 問い | 場所 | 判定 | 判定の文 | 学び | フォルダ |
 |---|---|---|---|---|---|---|
 | Q104 | ダウ型の構造確定の後の24時間: 向きの情報か、時刻と地合いか | FX | 棄却 | 棄却（向きの情報なし） |  | [dow-structure-direction-vs-time](dow-structure-direction-vs-time/) |
-| Q158 | 押し目・逆張りの D1 系14本を Dukascopy 日足に差し替えて再確認（2026-10-09 Opus） | 複数の資産 | 記載なし・未実行 | — |  | [oshime-d1-yahoo-close-recheck](oshime-d1-yahoo-close-recheck/) |
+| Q158 | 押し目・逆張りの D1 系14本を Dukascopy 日足に差し替えて再確認（2026-10-09 Opus） | 複数の資産 | 記述・点検 | 記述（判定の行なし） |  | [oshime-d1-yahoo-close-recheck](oshime-d1-yahoo-close-recheck/) |
 | Q217 | NR7（直前 7 日で最小レンジ）の翌日は最初の 2 時間の向きに続くか（FX8＋金・H1 から日足） | 複数の資産 | 棄却 | 棄却 |  | [nr7-breakout-continuation](nr7-breakout-continuation/) |
 | Q580 | トラリピ型の半々グリッドは FX8 の H1 で含み損込み・コスト後に年単位で正か、年内並べ替えのランダムウォークより良いか（Q579 の次段階） | FX | 棄却 | 棄却 |  | [grid-traprepeat-q580](grid-traprepeat-q580/) |
 | Q581 | グリッドの設定地図：26 銘柄 H1 × 45 設定の 1,170 セルで、ボラの塊を保った帰無より良く、前後半ともコスト後に正のセルはあるか（Q580 の次段階・夜間計算） | 複数の資産 | 棄却 | 棄却 |  | [grid-map-q581](grid-map-q581/) |

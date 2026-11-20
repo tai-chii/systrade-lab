@@ -6,7 +6,7 @@
 
 | 支持 | 棄却 | 未確定 | 記述・点検 | 記載なし・未実行 |
 |---|---|---|---|---|
-| 4 | 13 | 7 | 3 | 1 |
+| 4 | 13 | 7 | 4 | 0 |
 
 場所: 指数・商品 3・複数の資産 22・日本株 1・米国株 1・暗号資産 1
 
@@ -27,7 +27,7 @@
 | Q254 | 逆エクイティカーブ（直近20日損益が負なら規模1.5）は Q210 の負の自己相関を利益に変えるか（15銘柄） | 複数の資産 | 棄却 | 棄却: Q210 の負の自己相関は利益にできない |  | [anti-equity-curve](anti-equity-curve/) |
 | Q258 | 15銘柄の直近60日平均ペア相関が高い月は順張り束のシャープが低いか（相関レジーム） | 複数の資産 | 棄却 | 棄却 |  | [correlation-regime-tsmom](correlation-regime-tsmom/) |
 | Q305 | TREND7 日足の買い持ちを直前 20 日実現ボラの逆数で規模調整するとシャープは同じ重み分布の循環シフトより高いか（Moreira–Muir の CFD 移植） | 指数・商品 | 未確定 | 未確定 |  | [vol-managed-buyhold-trend7](vol-managed-buyhold-trend7/) |
-| Q377 | 予測ボラを上振れだけ使う非対称サイジング（σ_used=max(σ̂_HAR, σ60)）は対称版・σ60 版より S07 TSMOM60 の規程モードで最大下落が浅く、シャープを落とさないか | 複数の資産 | 記載なし・未実行 | — |  | [s04b-asymmetric-vol-sizing-q377](s04b-asymmetric-vol-sizing-q377/) |
+| Q377 | 予測ボラを上振れだけ使う非対称サイジング（σ_used=max(σ̂_HAR, σ60)）は対称版・σ60 版より S07 TSMOM60 の規程モードで最大下落が浅く、シャープを落とさないか | 複数の資産 | 記述・点検 | 記述（判定の行なし） |  | [s04b-asymmetric-vol-sizing-q377](s04b-asymmetric-vol-sizing-q377/) |
 | Q382 | 48 銘柄 D1 の TSMOM60 × SMA200 同符号ゲート × 時間ストップ 20 日の合成（部品は既存値で固定・掃引なし）は規程モードの封印前の前後半で t≥2 かつ最大下落 −6% 以内か | 複数の資産 | 棄却 | 棄却 |  | [s02-tsmom60-sma200-timestop-wide48-q382](s02-tsmom60-sma200-timestop-wide48-q382/) |
 | Q388 | 水準 HAR-RV（銘柄別 OLS）の σ̂ を size_weights の σ に渡した S07 TSMOM60 の規程モードは、σ60 版より最大下落が浅く Sharpe が高いか（較正を前提条件とし σ̂ 並べ替え帰無で判定。Q376 の偏りを除いた再判定・Q377 の前提） | 複数の資産 | 棄却 | 棄却 |  | [s04b-vol-sizing-calibrated-q388](s04b-vol-sizing-calibrated-q388/) |
 | Q396 | 48 銘柄 D1 の TSMOM60 に実測スプレッドの z（250 日）>2 の日は休む流動性ゲートを足すと、ゲートなし（S07 本体と同じ合図）より規程モードの最大下落が浅く前後半の t が高いか | 複数の資産 | 棄却 | 棄却 |  | [s11-spread-stress-gate-tsmom-q396](s11-spread-stress-gate-tsmom-q396/) |
@@ -39,4 +39,4 @@
 | Q569 | 暗号資産の四半期先物の年率ベーシスが高い日に S23 を休むと、S23 の損益は上がるか | 暗号資産 | 棄却 | 棄却（機械判定どおり） |  | [crypto-basis-gate-s23-q569](crypto-basis-gate-s23-q569/) |
 | Q586 | S30 の composite 関門（生き残り 3 本との相関・等リスク合成）と仮想フォワード記録スクリプト | 日本株 | 支持 | 通過 | 相関は源が違えば自然に低い（−0.07／0.04／0.03）。問題は単体の強さで、重なりの切り方で Sharpe が 1.15 にも 0.28 にも見える。合成の判定は 12 か月の前向き系列で 1 回だけ | [s30-composite-gate-q586](s30-composite-gate-q586/) |
 | — | リバランス頻度とリスク尺度のどちらが成績差を支配するか（米国セクター ETF） | 米国株 | 記述・点検 | README の「主な検証」表を参照 |  | [rebalance-frequency](rebalance-frequency/) |
-| — | 生き残り 3 本（S17b・S21 候補形・S23）の相関と合成（記述・2026-10-29） | 複数の資産 | 記述・点検 | — |  | [survivors-correlation-composite](survivors-correlation-composite/) |
+| — | 生き残り 3 本（S17b・S21 候補形・S23）の相関と合成（記述・2026-10-29） | 複数の資産 | 記述・点検 | 記述（判定の行なし） |  | [survivors-correlation-composite](survivors-correlation-composite/) |

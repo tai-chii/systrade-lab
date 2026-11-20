@@ -6,7 +6,7 @@
 
 | 支持 | 棄却 | 未確定 | 記述・点検 | 記載なし・未実行 |
 |---|---|---|---|---|
-| 3 | 29 | 16 | 1 | 2 |
+| 3 | 29 | 17 | 1 | 1 |
 
 場所: FX 6・指数・商品 11・複数の資産 24・日本株 1・米国株 1・暗号資産 8
 
@@ -56,10 +56,10 @@
 | Q394 | 株価指数 13＋債券 3 の D1 で、債券の 250 日リターン符号で株を持ち・株の 250 日リターンの逆符号で債券を持つクロスアセット TSMOM は規程モードで封印前の前後半（境 2021）とも年単位 t≥2 かつ最大下落 −6% 以内か | 指数・商品 | 棄却 | 棄却 |  | [s10-xasset-bond-equity-tsmom-q394](s10-xasset-bond-equity-tsmom-q394/) |
 | Q395 | US500 の TSMOM60 符号が負の日は円・フランを買い（USDJPY/USDCHF/AUDJPY/NZDJPY/CADJPY 売り）正の日は逆、のリスクオフ・レジーム戦略は規程モードで封印前の前後半とも年単位 t≥2 かつ最大下落 −6% 以内か | 複数の資産 | 未確定 | 未確定 |  | [s10-equity-trend-safe-haven-fx-q395](s10-equity-trend-safe-haven-fx-q395/) |
 | Q412 | 15 銘柄 H1→D1 の出来高加重 TSMOM60（直近 60 日の Σ ret_i × v_i/v̄_250 の符号）は素の TSMOM60 より規程モードの前後半 t≥2・最大下落 −6% 以内に近づくか | 複数の資産 | 未確定 | 未確定 |  | [s14-volume-weighted-tsmom60-all15-q412](s14-volume-weighted-tsmom60-all15-q412/) |
+| Q529 | S23：暗号資産は上昇トレンドのときだけ買って持つ（BTCUSD・ETHUSD・TSMOM60・ロングのみ）（ほか 4 件: q537・q548・q556…） | 暗号資産 | 未確定 | 未確定 |  | [s23-crypto-uptrend-long-q529](s23-crypto-uptrend-long-q529/) |
 | Q567 | 2 本 SMA クロスの総当たり（190 組×15 銘柄×D1/H4）: スペック §1 の再現合格数は偶然の範囲か・前半 TOP5 の等ウェイトは後半で勝つか | 複数の資産 | 支持 | 確定（(C) で「前半 TOP5 の bot は後半で等ウェイトに勝たない」。(A) は帰無が 0 点に潰れた退化で、… |  | [sma-cross-grid-spec-pass-q567](sma-cross-grid-spec-pass-q567/) |
 | Q579 | MA 整列の局面では翌 24 本の分散比が 1 を超え、整列していない局面では 1 を下回るか（トレンド bot × トラリピ切替の前提） | 複数の資産 | 棄却 | 棄却 |  | [ma-alignment-regime-vr-q579](ma-alignment-regime-vr-q579/) |
 | Q705 | 日本株・米国株の個別株の時系列モメンタム（12-1 か月リターンの符号で全買い／全売り） | 日本株 | 棄却 | 棄却 |  | [jp-us-stock-tsmom-q705](jp-us-stock-tsmom-q705/) |
 | — | MAクロス 全パターン検証（EURUSD 4時間足） | FX | 記載なし・未実行 | — |  | [ma-cross-eurusd](ma-cross-eurusd/) |
 | — | 200日移動平均線ルールの下落防御は、タイミングの効果か市場露出が減るだけか（約100年・米株） | 米国株 | 記述・点検 | README の「主な検証」表を参照 |  | [ma200-timing-vs-exposure](ma200-timing-vs-exposure/) |
-| — | （README なし） | 暗号資産 | 記載なし・未実行 | — |  | [s23-crypto-uptrend-long-q529](s23-crypto-uptrend-long-q529/) |
 | — | USDJPY 日足ドンチャンの「優位な売買方向」は5年窓をずらしても符号が保たれるか（Q353） | FX | 棄却 | ノイズ（確定） |  | [usdjpy-donchian-side-window-stability](usdjpy-donchian-side-window-stability/) |

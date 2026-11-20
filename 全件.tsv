@@ -21,7 +21,7 @@ m15-autocorr-by-hour	Q153	季節性・時間帯	FX	棄却		公開		08_季節性�
 wrc-spa-disagreement	Q154	検証の方法（統計・データの点検）	場所によらない	支持		公開		20_検証の方法/wrc-spa-disagreement
 embargo-length-effect	Q155	検証の方法（統計・データの点検）	複数の資産（FX・指数・商品をまたぐ 15〜48 銘柄）	未確定		公開		20_検証の方法/embargo-length-effect
 execution-delay-effect	Q156	執行・コスト	複数の資産（FX・指数・商品をまたぐ 15〜48 銘柄）	棄却		公開		19_執行・コスト/execution-delay-effect
-oshime-d1-yahoo-close-recheck	Q158	裁量の型・グリッド	複数の資産（FX・指数・商品をまたぐ 15〜48 銘柄）	記載なし・未実行		公開		16_裁量の型・グリッド/oshime-d1-yahoo-close-recheck
+oshime-d1-yahoo-close-recheck	Q158	裁量の型・グリッド	複数の資産（FX・指数・商品をまたぐ 15〜48 銘柄）	記述・点検		公開		16_裁量の型・グリッド/oshime-d1-yahoo-close-recheck
 xauusd-vol-regime-single	Q161	リスク管理・戦略の合成	指数・商品（CFD）	未確定		公開		18_リスク管理・戦略の合成/xauusd-vol-regime-single
 cpro-exact-selection	Q168	検証の方法（統計・データの点検）	複数の資産（FX・指数・商品をまたぐ 15〜48 銘柄）	棄却		公開		20_検証の方法/cpro-exact-selection
 pbo-cscv-tsmom	Q171	検証の方法（統計・データの点検）	複数の資産（FX・指数・商品をまたぐ 15〜48 銘柄）	支持		公開		20_検証の方法/pbo-cscv-tsmom
@@ -167,13 +167,13 @@ wide48-cross-sectional-mom60	Q371	横断モメンタム	複数の資産（FX・�
 s04a-meta-label-tsmom60-wide48	Q374	ML 方向予測	複数の資産（FX・指数・商品をまたぐ 15〜48 銘柄）	棄却		公開		11_ML方向予測/s04a-meta-label-tsmom60-wide48
 s04a-meta-label-predictability-q375	Q375	ML 方向予測	複数の資産（FX・指数・商品をまたぐ 15〜48 銘柄）	支持		公開		11_ML方向予測/s04a-meta-label-predictability-q375
 s04b-vol-forecast-sizing-q376	Q376	ボラプレミアム・ボラ予測	複数の資産（FX・指数・商品をまたぐ 15〜48 銘柄）	棄却		公開		14_ボラプレミアム・ボラ予測/s04b-vol-forecast-sizing-q376
-s04b-asymmetric-vol-sizing-q377	Q377	リスク管理・戦略の合成	複数の資産（FX・指数・商品をまたぐ 15〜48 銘柄）	記載なし・未実行		公開		18_リスク管理・戦略の合成/s04b-asymmetric-vol-sizing-q377
+s04b-asymmetric-vol-sizing-q377	Q377	リスク管理・戦略の合成	複数の資産（FX・指数・商品をまたぐ 15〜48 銘柄）	記述・点検		公開		18_リスク管理・戦略の合成/s04b-asymmetric-vol-sizing-q377
 s04c-pooled-direction-wide48-q378	Q378	ML 方向予測	複数の資産（FX・指数・商品をまたぐ 15〜48 銘柄）	棄却		公開		11_ML方向予測/s04c-pooled-direction-wide48-q378
 s04c-pooled-vs-persym-q379	Q379	ML 方向予測	複数の資産（FX・指数・商品をまたぐ 15〜48 銘柄）	未確定		公開		11_ML方向予測/s04c-pooled-vs-persym-q379
 s04c-regression-vs-classification-q380	Q380	ML 方向予測	複数の資産（FX・指数・商品をまたぐ 15〜48 銘柄）	未確定		公開		11_ML方向予測/s04c-regression-vs-classification-q380
 s04-train-window-length-q381	Q381	ML 方向予測	複数の資産（FX・指数・商品をまたぐ 15〜48 銘柄）	支持		公開		11_ML方向予測/s04-train-window-length-q381
 s02-tsmom60-sma200-timestop-wide48-q382	Q382	リスク管理・戦略の合成	複数の資産（FX・指数・商品をまたぐ 15〜48 銘柄）	棄却		公開		18_リスク管理・戦略の合成/s02-tsmom60-sma200-timestop-wide48-q382
-s04-target-horizon-q383	Q383	ML 方向予測	複数の資産（FX・指数・商品をまたぐ 15〜48 銘柄）	記載なし・未実行		公開		11_ML方向予測/s04-target-horizon-q383
+s04-target-horizon-q383	Q383	ML 方向予測	複数の資産（FX・指数・商品をまたぐ 15〜48 銘柄）	記述・点検		公開		11_ML方向予測/s04-target-horizon-q383
 s08-crypto2-d1-tsmom-q385	Q385	時系列モメンタム（トレンド）	暗号資産	未確定		公開		01_時系列モメンタム/s08-crypto2-d1-tsmom-q385
 s08-crypto11-d1-tsmom-q386	Q386	時系列モメンタム（トレンド）	暗号資産	棄却		公開		01_時系列モメンタム/s08-crypto11-d1-tsmom-q386
 s04b-vol-forecast-calibrated-q387	Q387	ボラプレミアム・ボラ予測	複数の資産（FX・指数・商品をまたぐ 15〜48 銘柄）	棄却		公開		14_ボラプレミアム・ボラ予測/s04b-vol-forecast-calibrated-q387
@@ -195,7 +195,7 @@ s13-usd7-fomc-day-dollar-sell-q403	Q403	イベント	FX	棄却		公開		09_イ�
 s13-gap-excluded-rerun-q409	Q409	季節性・時間帯	指数・商品（CFD）	棄却		公開		08_季節性・時間帯/s13-gap-excluded-rerun-q409
 s14-volume-gate-tsmom60-all15-q411	Q411	リスク管理・戦略の合成	複数の資産（FX・指数・商品をまたぐ 15〜48 銘柄）	棄却		公開		18_リスク管理・戦略の合成/s14-volume-gate-tsmom60-all15-q411
 s14-volume-weighted-tsmom60-all15-q412	Q412	時系列モメンタム（トレンド）	複数の資産（FX・指数・商品をまたぐ 15〜48 銘柄）	未確定		公開		01_時系列モメンタム/s14-volume-weighted-tsmom60-all15-q412
-s14-tick-volume-information-q413	Q413	需給（建玉・信用・資金調達率）	複数の資産（FX・指数・商品をまたぐ 15〜48 銘柄）	記載なし・未実行		公開		10_需給/s14-tick-volume-information-q413
+s14-tick-volume-information-q413	Q413	需給（建玉・信用・資金調達率）	複数の資産（FX・指数・商品をまたぐ 15〜48 銘柄）	記述・点検		公開		10_需給/s14-tick-volume-information-q413
 s15-fomc-dollar-sell-hiking-regime-q414	Q414	マクロ・金利連動	FX	未確定		公開		12_マクロ・金利連動/s15-fomc-dollar-sell-hiking-regime-q414
 s15-wide48-tsmom60-global-hiking-q415	Q415	マクロ・金利連動	複数の資産（FX・指数・商品をまたぐ 15〜48 銘柄）	棄却		公開		12_マクロ・金利連動/s15-wide48-tsmom60-global-hiking-q415
 gate-pass-probability-vs-sharpe-q416	Q416	検証の方法（統計・データの点検）	場所によらない	棄却		公開		20_検証の方法/gate-pass-probability-vs-sharpe-q416
@@ -211,9 +211,10 @@ wfo-rest-if-all-negative-q461	Q461	リスク管理・戦略の合成	複数の�
 s17-long-only-risk-premia-idx-bond-gold-q468	Q468	買い持ち（資産のリスクプレミアム）	複数の資産（FX・指数・商品をまたぐ 15〜48 銘柄）	支持		公開		15_買い持ち/s17-long-only-risk-premia-idx-bond-gold-q468
 s18-four-family-equal-risk-composite-c1-q469	Q469	リスク管理・戦略の合成	複数の資産（FX・指数・商品をまたぐ 15〜48 銘柄）	未確定		公開		18_リスク管理・戦略の合成/s18-four-family-equal-risk-composite-c1-q469
 s19-vix-riskoff-gate-index-beta-c1-q473	Q473	リスク管理・戦略の合成	指数・商品（CFD）	棄却		公開		18_リスク管理・戦略の合成/s19-vix-riskoff-gate-index-beta-c1-q473
-s20-credit-riskoff-gate-composite-c1-q513	Q513	マクロ・金利連動	複数の資産（FX・指数・商品をまたぐ 15〜48 銘柄）	記載なし・未実行		公開		12_マクロ・金利連動/s20-credit-riskoff-gate-composite-c1-q513
+s20-credit-riskoff-gate-composite-c1-q513	Q513	マクロ・金利連動	複数の資産（FX・指数・商品をまたぐ 15〜48 銘柄）	記述・点検		公開		12_マクロ・金利連動/s20-credit-riskoff-gate-composite-c1-q513
 s20b-baa10y-riskoff-gate-composite-c1-q514	Q514	マクロ・金利連動	複数の資産（FX・指数・商品をまたぐ 15〜48 銘柄）	棄却		公開		12_マクロ・金利連動/s20b-baa10y-riskoff-gate-composite-c1-q514
 s21-h1-ml-rr-weekcap-q515	Q515	ML 方向予測	複数の資産（FX・指数・商品をまたぐ 15〜48 銘柄）	未確定	S21	公開		11_ML方向予測/s21-h1-ml-rr-weekcap-q515
+s23-crypto-uptrend-long-q529	Q529	時系列モメンタム（トレンド）	暗号資産	未確定	S23	公開		01_時系列モメンタム/s23-crypto-uptrend-long-q529
 s28-onchain-liquidation-observe-q557	Q557	その他	オンチェーン・オプション	棄却		公開		17_その他/s28-onchain-liquidation-observe-q557
 equities-free-data-q562	Q562	検証の方法（統計・データの点検）	日本株	未確定		公開		20_検証の方法/equities-free-data-q562
 jp-us-xs-momentum-q563	Q563	横断モメンタム	日本株	棄却		公開		02_横断モメンタム/jp-us-xs-momentum-q563
@@ -270,7 +271,6 @@ ma200-timing-vs-exposure		時系列モメンタム（トレンド）	米国株	�
 pair-trading		統計的裁定（ペア・リードラグ）	米国株	記述・点検		公開		13_統計的裁定/pair-trading
 rebalance-frequency		リスク管理・戦略の合成	米国株	記述・点検		公開		18_リスク管理・戦略の合成/rebalance-frequency
 report-scoring		検証の方法（統計・データの点検）	場所によらない	記述・点検		公開		20_検証の方法/report-scoring
-s23-crypto-uptrend-long-q529		時系列モメンタム（トレンド）	暗号資産	記載なし・未実行	S23	公開		01_時系列モメンタム/s23-crypto-uptrend-long-q529
 seasonality		季節性・時間帯	日本株	記載なし・未実行		公開		08_季節性・時間帯/seasonality
 survivors-correlation-composite		リスク管理・戦略の合成	複数の資産（FX・指数・商品をまたぐ 15〜48 銘柄）	記述・点検	S21,S23,S17b	公開		18_リスク管理・戦略の合成/survivors-correlation-composite
 usdjpy-donchian-side-window-stability		時系列モメンタム（トレンド）	FX	棄却		公開		01_時系列モメンタム/usdjpy-donchian-side-window-stability

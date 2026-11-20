@@ -19,11 +19,10 @@
 <text x="265.2" y="123.6" class="on-s1 n" font-size="10" text-anchor="middle">3</text>
 <rect x="282.4" y="112.0" width="310.7" height="16.0" class="s2"/>
 <text x="437.7" y="123.6" class="on-s2 n" font-size="10" text-anchor="middle">29</text>
-<rect x="595.1" y="112.0" width="170.5" height="16.0" class="s3"/>
-<text x="680.4" y="123.6" class="on-s3 n" font-size="10" text-anchor="middle">16</text>
-<rect x="767.6" y="112.0" width="8.8" height="16.0" class="s4"/>
-<path d="M778.4,112.0 h15.6 a4,4 0 0 1 4,4 v8.0 a4,4 0 0 1 -4,4 h-15.6 z" class="gray"/>
-<text x="788.2" y="123.6" class="on-gray n" font-size="10" text-anchor="middle">2</text>
+<rect x="595.1" y="112.0" width="181.3" height="16.0" class="s3"/>
+<text x="685.8" y="123.6" class="on-s3 n" font-size="10" text-anchor="middle">17</text>
+<rect x="778.4" y="112.0" width="8.8" height="16.0" class="s4"/>
+<path d="M789.2,112.0 h4.8 a4,4 0 0 1 4,4 v8.0 a4,4 0 0 1 -4,4 h-4.8 z" class="gray"/>
 <text x="806.0" y="124.0" class="t1 n" font-size="12" text-anchor="start" font-weight="600">51</text>
 <text x="240.0" y="150.0" class="t1" font-size="12" text-anchor="end">季節性・時間帯</text>
 <rect x="250.0" y="138.0" width="8.8" height="16.0" class="s1"/>
@@ -54,7 +53,7 @@
 <text x="297.5" y="227.6" class="on-s2 n" font-size="10" text-anchor="middle">5</text>
 <rect x="325.5" y="216.0" width="51.9" height="16.0" class="s3"/>
 <text x="351.5" y="227.6" class="on-s3 n" font-size="10" text-anchor="middle">5</text>
-<path d="M379.4,216.0 h4.8 a4,4 0 0 1 4,4 v8.0 a4,4 0 0 1 -4,4 h-4.8 z" class="gray"/>
+<path d="M379.4,216.0 h4.8 a4,4 0 0 1 4,4 v8.0 a4,4 0 0 1 -4,4 h-4.8 z" class="s4"/>
 <text x="396.2" y="228.0" class="t1 n" font-size="12" text-anchor="start" font-weight="600">13</text>
 <text x="240.0" y="254.0" class="t1" font-size="12" text-anchor="end">ボラプレミアム・ボラ予測</text>
 <rect x="250.0" y="242.0" width="19.6" height="16.0" class="s1"/>
@@ -69,7 +68,7 @@
 <rect x="250.0" y="268.0" width="95.1" height="16.0" class="s2"/>
 <text x="297.5" y="279.6" class="on-s2 n" font-size="10" text-anchor="middle">9</text>
 <rect x="347.1" y="268.0" width="8.8" height="16.0" class="s3"/>
-<path d="M357.8,268.0 h4.8 a4,4 0 0 1 4,4 v8.0 a4,4 0 0 1 -4,4 h-4.8 z" class="gray"/>
+<path d="M357.8,268.0 h4.8 a4,4 0 0 1 4,4 v8.0 a4,4 0 0 1 -4,4 h-4.8 z" class="s4"/>
 <text x="374.6" y="280.0" class="t1 n" font-size="12" text-anchor="start" font-weight="600">11</text>
 <text x="240.0" y="306.0" class="t1" font-size="12" text-anchor="end">イベント</text>
 <rect x="250.0" y="294.0" width="62.7" height="16.0" class="s2"/>
@@ -87,7 +86,7 @@
 <rect x="250.0" y="346.0" width="8.8" height="16.0" class="s1"/>
 <rect x="260.8" y="346.0" width="51.9" height="16.0" class="s2"/>
 <text x="286.7" y="357.6" class="on-s2 n" font-size="10" text-anchor="middle">5</text>
-<path d="M314.7,346.0 h4.8 a4,4 0 0 1 4,4 v8.0 a4,4 0 0 1 -4,4 h-4.8 z" class="gray"/>
+<path d="M314.7,346.0 h4.8 a4,4 0 0 1 4,4 v8.0 a4,4 0 0 1 -4,4 h-4.8 z" class="s4"/>
 <text x="331.5" y="358.0" class="t1 n" font-size="12" text-anchor="start" font-weight="600">7</text>
 <text x="240.0" y="384.0" class="t1" font-size="12" text-anchor="end">その他</text>
 <rect x="250.0" y="372.0" width="19.6" height="16.0" class="s2"/>
@@ -107,7 +106,7 @@
 <text x="240.0" y="462.0" class="t1" font-size="12" text-anchor="end">需給</text>
 <rect x="250.0" y="450.0" width="8.8" height="16.0" class="s2"/>
 <rect x="260.8" y="450.0" width="8.8" height="16.0" class="s3"/>
-<path d="M271.6,450.0 h4.8 a4,4 0 0 1 4,4 v8.0 a4,4 0 0 1 -4,4 h-4.8 z" class="gray"/>
+<path d="M271.6,450.0 h4.8 a4,4 0 0 1 4,4 v8.0 a4,4 0 0 1 -4,4 h-4.8 z" class="s4"/>
 <text x="288.4" y="462.0" class="t1 n" font-size="12" text-anchor="start" font-weight="600">3</text>
 <text x="240.0" y="488.0" class="t1" font-size="12" text-anchor="end">バリュー</text>
 <path d="M250.0,476.0 h15.6 a4,4 0 0 1 4,4 v8.0 a4,4 0 0 1 -4,4 h-15.6 z" class="s2"/>
@@ -140,9 +139,8 @@
 <text x="362.2" y="617.6" class="on-s2 n" font-size="10" text-anchor="middle">13</text>
 <rect x="433.3" y="606.0" width="73.5" height="16.0" class="s3"/>
 <text x="470.1" y="617.6" class="on-s3 n" font-size="10" text-anchor="middle">7</text>
-<rect x="508.8" y="606.0" width="30.4" height="16.0" class="s4"/>
-<text x="524.0" y="617.6" class="on-s4 n" font-size="10" text-anchor="middle">3</text>
-<path d="M541.2,606.0 h4.8 a4,4 0 0 1 4,4 v8.0 a4,4 0 0 1 -4,4 h-4.8 z" class="gray"/>
+<path d="M508.8,606.0 h37.1 a4,4 0 0 1 4,4 v8.0 a4,4 0 0 1 -4,4 h-37.1 z" class="s4"/>
+<text x="529.4" y="617.6" class="on-s4 n" font-size="10" text-anchor="middle">4</text>
 <text x="558.0" y="618.0" class="t1 n" font-size="12" text-anchor="start" font-weight="600">28</text>
 <text x="240.0" y="644.0" class="t1" font-size="12" text-anchor="end">執行・コスト</text>
 <rect x="250.0" y="632.0" width="19.6" height="16.0" class="s1"/>

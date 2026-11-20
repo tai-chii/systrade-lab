@@ -6,7 +6,7 @@
 
 | 支持 | 棄却 | 未確定 | 記述・点検 | 記載なし・未実行 |
 |---|---|---|---|---|
-| 0 | 9 | 1 | 0 | 1 |
+| 0 | 9 | 1 | 1 | 0 |
 
 場所: FX 5・複数の資産 5・場所によらない 1
 
@@ -17,7 +17,7 @@
 | Q399 | FX22 D1 を政策金利差の 90 暦日変化で順位付けし上位 1/3 買い・下位 1/3 売り（横断金利モメンタム・スワップ込み）は規程モードで封印前の前後半とも年単位 t≥2 かつ最大下落 −6% 以内か | FX | 棄却 | 棄却 |  | [s12-fx22-rate-momentum-xsec-q399](s12-fx22-rate-momentum-xsec-q399/) |
 | Q414 | 対ドル 7 ペア（EURUSD・GBPUSD・AUDUSD・NZDUSD・USDJPY・USDCHF・USDCAD）の FOMC 定例発表日ドル売り（当日の足 1 本）を「米政策金利が直近 365 暦日に 1 回以上上がった」局面だけに限ると、Q403 で見えた後半（2022〜24）とは独立な第 1 サイクル（2015-12〜2019-07）でも規程モードの年単位 t≥2 か（前後半の境は 2020） | FX | 未確定 | 未確定 |  | [s15-fomc-dollar-sell-hiking-regime-q414](s15-fomc-dollar-sell-hiking-regime-q414/) |
 | Q415 | 48 銘柄 D1 の TSMOM60 を「8 中銀（USD EUR JPY GBP AUD CAD CHF NZD）のうち直近 180 暦日に利上げした数が 4 以上」の局面だけ持つと、常時持つ S07 本体より規程モードの前後半 t と最大下落が改善するか | 複数の資産 | 棄却 | 棄却 |  | [s15-wide48-tsmom60-global-hiking-q415](s15-wide48-tsmom60-global-hiking-q415/) |
-| Q513 | S20 信用スプレッド（HY OAS）のリスクオフ・ゲート付き 4 族合成（C1） | 複数の資産 | 記載なし・未実行 | 実行不能（データ源）・判定なし |  | [s20-credit-riskoff-gate-composite-c1-q513](s20-credit-riskoff-gate-composite-c1-q513/) |
+| Q513 | S20 信用スプレッド（HY OAS）のリスクオフ・ゲート付き 4 族合成（C1） | 複数の資産 | 記述・点検 | 実行不能（データ源）・判定なし |  | [s20-credit-riskoff-gate-composite-c1-q513](s20-credit-riskoff-gate-composite-c1-q513/) |
 | Q514 | S20 再登録: 信用スプレッド（BAA10Y）のリスクオフ・ゲート付き 4 族合成（C1） | 複数の資産 | 棄却 | 棄却 |  | [s20b-baa10y-riskoff-gate-composite-c1-q514](s20b-baa10y-riskoff-gate-composite-c1-q514/) |
 | Q607 | S38 FX の 2 年金利差で説明できない 20 日の値動きは平均回帰するか | FX | 棄却 | 棄却 | 金利の残差は素の反転を上回らない。月 2.5 件で件数も足りない | [s38-fx-rate-gap-reversal-q607](s38-fx-rate-gap-reversal-q607/) |
 | Q608 | S39 利上げ織り込みの行き過ぎ（2 年金利 − 政策金利の通貨間差）で織り込まれた通貨を売ると戻るか | FX | 棄却 | 棄却 | 金利系列の方向の線は閉じる。極端値は世界同時の局面に集まる | [s39-fx-priced-hikes-reversal-q608](s39-fx-priced-hikes-reversal-q608/) |
