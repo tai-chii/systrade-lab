@@ -1,0 +1,54 @@
+{
+ "model_a0.txt": "977e4b6ecc40539e0bf2db83782ee5125c079fba7df4a4b306f8d4f127874bc4",
+ "model_a1.txt": "ce397704ed72729ab56f815595280bd7fd762dcd65686c74ba61804210d4de26",
+ "model_a2.txt": "098a94f0c7d2d77ac90088fd1ae8800ea1021ab6f43ab19e1ed326920549fb75",
+ "model_a3.txt": "facbfc074ef00724ccb147153e073dab7718a6e46bc9facf7ba9cef0bd8305ea",
+ "model_a4.txt": "924dafd3b80427af4e91258f61310028c0b61e1327c65e30b13ffc03ed4308fb",
+ "model_a5.txt": "10e4babeb73fe38f3c81eb62e34d8f804c606bb33be41ddd0b8c5d05464294fd",
+ "kensho_s41_refine_q613_q614.py": "2227634268c75b06b34b39ab9707295c8a5139f37817fd0dc2307d7a5fd1a326",
+ "kensho_s41_h1_xmcost_q610.py": "f073df1d1929fae221c45ebe155b46b8c1cd6a509f73133d1ca92bde1c1a726d",
+ "学習行": 347659,
+ "学習の終わり": "2026-10-01 00:00:00+00:00",
+ "同等性（検証用と記録用の予測の相関）": {
+  "EURUSD": {
+   "n": 747,
+   "corr": 1.0
+  },
+  "GBPUSD": {
+   "n": 747,
+   "corr": 1.0
+  },
+  "AUDUSD": {
+   "n": 747,
+   "corr": 1.0
+  },
+  "NZDUSD": {
+   "n": 747,
+   "corr": 1.0
+  },
+  "USDJPY": {
+   "n": 747,
+   "corr": 1.0
+  },
+  "USDCHF": {
+   "n": 747,
+   "corr": 1.0
+  },
+  "USDCAD": {
+   "n": 747,
+   "corr": 1.0
+  },
+  "EURJPY": {
+   "n": 747,
+   "corr": 1.0
+  },
+  "GBPJPY": {
+   "n": 747,
+   "corr": 1.0
+  },
+  "EURGBP": {
+   "n": 747,
+   "corr": 1.0
+  }
+ }
+}

@@ -1,0 +1,99 @@
+{
+ "strategy": "S21 候補形 = Q533 D2（週末前決済で学習・週末前に決済）＋ Q534 E1（再開後 1 本目は入らない）",
+ "frozen_at": "2026-10-25 15:31:41 UTC",
+ "train_end": "2026-10-01 00:00:00+00:00",
+ "train_rows": 478520,
+ "train_syms": [
+  "EURUSD",
+  "GBPUSD",
+  "AUDUSD",
+  "NZDUSD",
+  "USDJPY",
+  "USDCHF",
+  "USDCAD",
+  "EURJPY",
+  "GBPJPY",
+  "EURGBP",
+  "XAUUSD",
+  "US500",
+  "USTECH",
+  "GER40",
+  "JPN225"
+ ],
+ "trade_syms": [
+  "EURUSD",
+  "GBPUSD",
+  "AUDUSD",
+  "NZDUSD",
+  "USDJPY",
+  "USDCHF",
+  "USDCAD",
+  "EURJPY",
+  "GBPJPY",
+  "EURGBP",
+  "XAUUSD",
+  "US500",
+  "USTECH",
+  "GER40",
+  "JPN225",
+  "AUDJPY",
+  "CADJPY",
+  "CHFJPY",
+  "NZDJPY"
+ ],
+ "forward_start": "2026-10-25 21:00:00+00:00",
+ "actions": [
+  [
+   1,
+   1.0
+  ],
+  [
+   1,
+   1.5
+  ],
+  [
+   1,
+   2.0
+  ],
+  [
+   -1,
+   1.0
+  ],
+  [
+   -1,
+   1.5
+  ],
+  [
+   -1,
+   2.0
+  ]
+ ],
+ "k_atr": 1.5,
+ "horizon_bars": 120,
+ "week_cap": 10,
+ "one_position_per_symbol": true,
+ "threshold": "直近 28 暦日（20 日×1.4）の 15 銘柄プール予測最大値の 90 パーセンタイル（J.thr_series）",
+ "reopen_block_bars": 1,
+ "weekend_close": "次の足まで 24 時間以上空く足の終値で決済",
+ "hold_rate": {
+  "0": 0.01,
+  "1": 0.04,
+  "2": 0.04
+ },
+ "lgb_params": {
+  "objective": "regression",
+  "num_leaves": 31,
+  "learning_rate": 0.03,
+  "n_estimators": 400,
+  "min_child_samples": 500,
+  "subsample": 0.7,
+  "subsample_freq": 1,
+  "colsample_bytree": 0.7,
+  "verbose": -1,
+  "n_jobs": 2
+ },
+ "seed": 20261025,
+ "lightgbm_version": "4.7.0",
+ "pandas_version": "2.3.3",
+ "elapsed_s": 48
+}

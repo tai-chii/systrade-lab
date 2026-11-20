@@ -1,0 +1,27 @@
+{
+ "name": "XM",
+ "説明": "今の練習場（MT5 デモ・winnote）。2026-11-06 の winnote の config から作った。exec の値は今の bot と同じ",
+ "account_currency": "JPY",
+ "exec": {
+  "tz": "eet",
+  "symbol_map": {},
+  "equity_override": 10000000,
+  "deviation_points": 20
+ },
+ "cost": {
+  "spread_label": "XM",
+  "spread_csv": "lab-ops/trade/winnote/S21/spreads_XM_*.csv",
+  "commission_per_lot_round": {
+   "FX": 0,
+   "IDX": 0,
+   "METAL": 0
+  },
+  "m_vs_dukascopy": null,
+  "m_の出どころ": "Q690（2026-11-11 以降に Spread_XM の実測 ÷ 過去の M1 の列）で埋める"
+ },
+ "確かめた日": {
+  "tz": "2026-10-28（実測で EU 側＝eet）",
+  "symbol_map": "2026-10-28（指数は ○○Cash の自動探索で 19/19）",
+  "equity_override": "2026-11-05 19:15 配備（最小ロットのゆがみ・s21-demo-lot）"
+ }
+}

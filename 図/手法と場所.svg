@@ -1,0 +1,173 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 676" width="860" height="676" role="img" aria-label="手法 × 場所の検証の数">
+<title>手法 × 場所の検証の数</title><desc>手法（縦）と市場（横）ごとの検証の件数。2026-11-20 時点。</desc><style>text{font-family:system-ui, -apple-system, "Hiragino Sans", "Yu Gothic UI", "Segoe UI", sans-serif} .n{font-variant-numeric:tabular-nums} .surf{fill:#fcfcfb} .l-surf{stroke:#fcfcfb} .t1{fill:#0b0b0b} .l-t1{stroke:#0b0b0b} .t2{fill:#52514e} .l-t2{stroke:#52514e} .mu{fill:#898781} .l-mu{stroke:#898781} .grid{fill:#e1e0d9} .l-grid{stroke:#e1e0d9} .axis{fill:#c3c2b7} .l-axis{stroke:#c3c2b7} .s1{fill:#2a78d6} .l-s1{stroke:#2a78d6} .s2{fill:#eb6834} .l-s2{stroke:#eb6834} .s3{fill:#1baf7a} .l-s3{stroke:#1baf7a} .s4{fill:#eda100} .l-s4{stroke:#eda100} .gray{fill:#b9b8b1} .l-gray{stroke:#b9b8b1} .q1{fill:#cde2fb} .l-q1{stroke:#cde2fb} .q2{fill:#9ec5f4} .l-q2{stroke:#9ec5f4} .q3{fill:#5598e7} .l-q3{stroke:#5598e7} .q4{fill:#256abf} .l-q4{stroke:#256abf} .q5{fill:#104281} .l-q5{stroke:#104281} .on-s1{fill:#ffffff} .on-s2{fill:#ffffff} .on-s3{fill:#ffffff} .on-s4{fill:#0b0b0b} .on-gray{fill:#0b0b0b} .on-q1{fill:#0b0b0b} .on-q2{fill:#0b0b0b} .on-q3{fill:#ffffff} .on-q4{fill:#ffffff} .on-q5{fill:#ffffff} @media (prefers-color-scheme: dark){.surf{fill:#1a1a19} .l-surf{stroke:#1a1a19} .t1{fill:#f0efec} .l-t1{stroke:#f0efec} .t2{fill:#c3c2b7} .l-t2{stroke:#c3c2b7} .mu{fill:#898781} .l-mu{stroke:#898781} .grid{fill:#2c2c2a} .l-grid{stroke:#2c2c2a} .axis{fill:#383835} .l-axis{stroke:#383835} .s1{fill:#3987e5} .l-s1{stroke:#3987e5} .s2{fill:#d95926} .l-s2{stroke:#d95926} .s3{fill:#199e70} .l-s3{stroke:#199e70} .s4{fill:#c98500} .l-s4{stroke:#c98500} .gray{fill:#55544f} .l-gray{stroke:#55544f} .q1{fill:#104281} .l-q1{stroke:#104281} .q2{fill:#184f95} .l-q2{stroke:#184f95} .q3{fill:#256abf} .l-q3{stroke:#256abf} .q4{fill:#5598e7} .l-q4{stroke:#5598e7} .q5{fill:#9ec5f4} .l-q5{stroke:#9ec5f4} .on-s1{fill:#ffffff} .on-s2{fill:#ffffff} .on-s3{fill:#ffffff} .on-s4{fill:#ffffff} .on-gray{fill:#ffffff} .on-q1{fill:#ffffff} .on-q2{fill:#ffffff} .on-q3{fill:#ffffff} .on-q4{fill:#0b0b0b} .on-q5{fill:#0b0b0b}}</style>
+<rect class="surf" width="860" height="676" rx="8"/>
+<text x="24.0" y="30.0" class="t1" font-size="16" text-anchor="start" font-weight="600">どの手法を、どの市場で試したか</text>
+<text x="24.0" y="50.0" class="t2" font-size="12" text-anchor="start">マスの数字は検証の件数（276 件・2026-11-20 時点）。色が濃いほど多い。空白は 0 件。</text>
+<text x="285.0" y="90.0" class="t2" font-size="11" text-anchor="middle">FX</text>
+<text x="357.0" y="90.0" class="t2" font-size="11" text-anchor="middle">指数・商品</text>
+<text x="429.0" y="90.0" class="t2" font-size="11" text-anchor="middle">複数の資産</text>
+<text x="501.0" y="90.0" class="t2" font-size="11" text-anchor="middle">日本株</text>
+<text x="573.0" y="90.0" class="t2" font-size="11" text-anchor="middle">米国株</text>
+<text x="645.0" y="90.0" class="t2" font-size="11" text-anchor="middle">暗号資産</text>
+<text x="717.0" y="90.0" class="t2" font-size="11" text-anchor="middle">オンチェーン</text>
+<text x="789.0" y="90.0" class="t2" font-size="11" text-anchor="middle">場所なし</text>
+<text x="240.0" y="116.0" class="t1" font-size="12" text-anchor="end">時系列モメンタム</text>
+<rect x="250.0" y="100.0" width="70.0" height="24.0" class="q3" rx="3"/>
+<text x="285.0" y="116.0" class="on-q3 n" font-size="11" text-anchor="middle">6</text>
+<rect x="322.0" y="100.0" width="70.0" height="24.0" class="q4" rx="3"/>
+<text x="357.0" y="116.0" class="on-q4 n" font-size="11" text-anchor="middle">11</text>
+<rect x="394.0" y="100.0" width="70.0" height="24.0" class="q5" rx="3"/>
+<text x="429.0" y="116.0" class="on-q5 n" font-size="11" text-anchor="middle">24</text>
+<rect x="466.0" y="100.0" width="70.0" height="24.0" class="q1" rx="3"/>
+<text x="501.0" y="116.0" class="on-q1 n" font-size="11" text-anchor="middle">1</text>
+<rect x="538.0" y="100.0" width="70.0" height="24.0" class="q1" rx="3"/>
+<text x="573.0" y="116.0" class="on-q1 n" font-size="11" text-anchor="middle">1</text>
+<rect x="610.0" y="100.0" width="70.0" height="24.0" class="q3" rx="3"/>
+<text x="645.0" y="116.0" class="on-q3 n" font-size="11" text-anchor="middle">8</text>
+<text x="240.0" y="142.0" class="t1" font-size="12" text-anchor="end">横断モメンタム</text>
+<rect x="250.0" y="126.0" width="70.0" height="24.0" class="q1" rx="3"/>
+<text x="285.0" y="142.0" class="on-q1 n" font-size="11" text-anchor="middle">2</text>
+<rect x="394.0" y="126.0" width="70.0" height="24.0" class="q2" rx="3"/>
+<text x="429.0" y="142.0" class="on-q2 n" font-size="11" text-anchor="middle">4</text>
+<rect x="466.0" y="126.0" width="70.0" height="24.0" class="q3" rx="3"/>
+<text x="501.0" y="142.0" class="on-q3 n" font-size="11" text-anchor="middle">6</text>
+<rect x="610.0" y="126.0" width="70.0" height="24.0" class="q1" rx="3"/>
+<text x="645.0" y="142.0" class="on-q1 n" font-size="11" text-anchor="middle">1</text>
+<text x="240.0" y="168.0" class="t1" font-size="12" text-anchor="end">短期反転・平均回帰</text>
+<rect x="250.0" y="152.0" width="70.0" height="24.0" class="q2" rx="3"/>
+<text x="285.0" y="168.0" class="on-q2 n" font-size="11" text-anchor="middle">3</text>
+<rect x="322.0" y="152.0" width="70.0" height="24.0" class="q2" rx="3"/>
+<text x="357.0" y="168.0" class="on-q2 n" font-size="11" text-anchor="middle">3</text>
+<rect x="394.0" y="152.0" width="70.0" height="24.0" class="q3" rx="3"/>
+<text x="429.0" y="168.0" class="on-q3 n" font-size="11" text-anchor="middle">7</text>
+<rect x="466.0" y="152.0" width="70.0" height="24.0" class="q1" rx="3"/>
+<text x="501.0" y="168.0" class="on-q1 n" font-size="11" text-anchor="middle">1</text>
+<rect x="610.0" y="152.0" width="70.0" height="24.0" class="q1" rx="3"/>
+<text x="645.0" y="168.0" class="on-q1 n" font-size="11" text-anchor="middle">2</text>
+<text x="240.0" y="194.0" class="t1" font-size="12" text-anchor="end">キャリー</text>
+<rect x="250.0" y="178.0" width="70.0" height="24.0" class="q2" rx="3"/>
+<text x="285.0" y="194.0" class="on-q2 n" font-size="11" text-anchor="middle">3</text>
+<text x="240.0" y="220.0" class="t1" font-size="12" text-anchor="end">バリュー</text>
+<rect x="466.0" y="204.0" width="70.0" height="24.0" class="q1" rx="3"/>
+<text x="501.0" y="220.0" class="on-q1 n" font-size="11" text-anchor="middle">1</text>
+<rect x="538.0" y="204.0" width="70.0" height="24.0" class="q1" rx="3"/>
+<text x="573.0" y="220.0" class="on-q1 n" font-size="11" text-anchor="middle">1</text>
+<text x="240.0" y="246.0" class="t1" font-size="12" text-anchor="end">低ボラ・ベータ異常</text>
+<rect x="394.0" y="230.0" width="70.0" height="24.0" class="q1" rx="3"/>
+<text x="429.0" y="246.0" class="on-q1 n" font-size="11" text-anchor="middle">1</text>
+<rect x="538.0" y="230.0" width="70.0" height="24.0" class="q1" rx="3"/>
+<text x="573.0" y="246.0" class="on-q1 n" font-size="11" text-anchor="middle">1</text>
+<text x="240.0" y="272.0" class="t1" font-size="12" text-anchor="end">クオリティ・収益性</text>
+<rect x="538.0" y="256.0" width="70.0" height="24.0" class="q2" rx="3"/>
+<text x="573.0" y="272.0" class="on-q2 n" font-size="11" text-anchor="middle">3</text>
+<text x="240.0" y="298.0" class="t1" font-size="12" text-anchor="end">季節性・時間帯</text>
+<rect x="250.0" y="282.0" width="70.0" height="24.0" class="q3" rx="3"/>
+<text x="285.0" y="298.0" class="on-q3 n" font-size="11" text-anchor="middle">8</text>
+<rect x="322.0" y="282.0" width="70.0" height="24.0" class="q4" rx="3"/>
+<text x="357.0" y="298.0" class="on-q4 n" font-size="11" text-anchor="middle">11</text>
+<rect x="394.0" y="282.0" width="70.0" height="24.0" class="q3" rx="3"/>
+<text x="429.0" y="298.0" class="on-q3 n" font-size="11" text-anchor="middle">8</text>
+<rect x="466.0" y="282.0" width="70.0" height="24.0" class="q2" rx="3"/>
+<text x="501.0" y="298.0" class="on-q2 n" font-size="11" text-anchor="middle">3</text>
+<rect x="610.0" y="282.0" width="70.0" height="24.0" class="q1" rx="3"/>
+<text x="645.0" y="298.0" class="on-q1 n" font-size="11" text-anchor="middle">2</text>
+<text x="240.0" y="324.0" class="t1" font-size="12" text-anchor="end">イベント</text>
+<rect x="250.0" y="308.0" width="70.0" height="24.0" class="q2" rx="3"/>
+<text x="285.0" y="324.0" class="on-q2 n" font-size="11" text-anchor="middle">3</text>
+<rect x="322.0" y="308.0" width="70.0" height="24.0" class="q2" rx="3"/>
+<text x="357.0" y="324.0" class="on-q2 n" font-size="11" text-anchor="middle">5</text>
+<rect x="466.0" y="308.0" width="70.0" height="24.0" class="q1" rx="3"/>
+<text x="501.0" y="324.0" class="on-q1 n" font-size="11" text-anchor="middle">1</text>
+<rect x="754.0" y="308.0" width="70.0" height="24.0" class="q1" rx="3"/>
+<text x="789.0" y="324.0" class="on-q1 n" font-size="11" text-anchor="middle">1</text>
+<text x="240.0" y="350.0" class="t1" font-size="12" text-anchor="end">需給</text>
+<rect x="394.0" y="334.0" width="70.0" height="24.0" class="q1" rx="3"/>
+<text x="429.0" y="350.0" class="on-q1 n" font-size="11" text-anchor="middle">2</text>
+<rect x="466.0" y="334.0" width="70.0" height="24.0" class="q1" rx="3"/>
+<text x="501.0" y="350.0" class="on-q1 n" font-size="11" text-anchor="middle">1</text>
+<text x="240.0" y="376.0" class="t1" font-size="12" text-anchor="end">ML 方向予測</text>
+<rect x="250.0" y="360.0" width="70.0" height="24.0" class="q1" rx="3"/>
+<text x="285.0" y="376.0" class="on-q1 n" font-size="11" text-anchor="middle">2</text>
+<rect x="394.0" y="360.0" width="70.0" height="24.0" class="q3" rx="3"/>
+<text x="429.0" y="376.0" class="on-q3 n" font-size="11" text-anchor="middle">9</text>
+<rect x="538.0" y="360.0" width="70.0" height="24.0" class="q1" rx="3"/>
+<text x="573.0" y="376.0" class="on-q1 n" font-size="11" text-anchor="middle">2</text>
+<text x="240.0" y="402.0" class="t1" font-size="12" text-anchor="end">マクロ・金利連動</text>
+<rect x="250.0" y="386.0" width="70.0" height="24.0" class="q2" rx="3"/>
+<text x="285.0" y="402.0" class="on-q2 n" font-size="11" text-anchor="middle">5</text>
+<rect x="394.0" y="386.0" width="70.0" height="24.0" class="q2" rx="3"/>
+<text x="429.0" y="402.0" class="on-q2 n" font-size="11" text-anchor="middle">5</text>
+<rect x="754.0" y="386.0" width="70.0" height="24.0" class="q1" rx="3"/>
+<text x="789.0" y="402.0" class="on-q1 n" font-size="11" text-anchor="middle">1</text>
+<text x="240.0" y="428.0" class="t1" font-size="12" text-anchor="end">統計的裁定</text>
+<rect x="250.0" y="412.0" width="70.0" height="24.0" class="q1" rx="3"/>
+<text x="285.0" y="428.0" class="on-q1 n" font-size="11" text-anchor="middle">1</text>
+<rect x="322.0" y="412.0" width="70.0" height="24.0" class="q1" rx="3"/>
+<text x="357.0" y="428.0" class="on-q1 n" font-size="11" text-anchor="middle">1</text>
+<rect x="394.0" y="412.0" width="70.0" height="24.0" class="q2" rx="3"/>
+<text x="429.0" y="428.0" class="on-q2 n" font-size="11" text-anchor="middle">4</text>
+<rect x="466.0" y="412.0" width="70.0" height="24.0" class="q1" rx="3"/>
+<text x="501.0" y="428.0" class="on-q1 n" font-size="11" text-anchor="middle">1</text>
+<rect x="538.0" y="412.0" width="70.0" height="24.0" class="q1" rx="3"/>
+<text x="573.0" y="428.0" class="on-q1 n" font-size="11" text-anchor="middle">1</text>
+<text x="240.0" y="454.0" class="t1" font-size="12" text-anchor="end">ボラプレミアム・ボラ予測</text>
+<rect x="250.0" y="438.0" width="70.0" height="24.0" class="q1" rx="3"/>
+<text x="285.0" y="454.0" class="on-q1 n" font-size="11" text-anchor="middle">1</text>
+<rect x="322.0" y="438.0" width="70.0" height="24.0" class="q1" rx="3"/>
+<text x="357.0" y="454.0" class="on-q1 n" font-size="11" text-anchor="middle">2</text>
+<rect x="394.0" y="438.0" width="70.0" height="24.0" class="q3" rx="3"/>
+<text x="429.0" y="454.0" class="on-q3 n" font-size="11" text-anchor="middle">10</text>
+<text x="240.0" y="480.0" class="t1" font-size="12" text-anchor="end">買い持ち</text>
+<rect x="394.0" y="464.0" width="70.0" height="24.0" class="q1" rx="3"/>
+<text x="429.0" y="480.0" class="on-q1 n" font-size="11" text-anchor="middle">1</text>
+<text x="240.0" y="506.0" class="t1" font-size="12" text-anchor="end">裁量の型・グリッド</text>
+<rect x="250.0" y="490.0" width="70.0" height="24.0" class="q2" rx="3"/>
+<text x="285.0" y="506.0" class="on-q2 n" font-size="11" text-anchor="middle">3</text>
+<rect x="394.0" y="490.0" width="70.0" height="24.0" class="q2" rx="3"/>
+<text x="429.0" y="506.0" class="on-q2 n" font-size="11" text-anchor="middle">4</text>
+<text x="240.0" y="532.0" class="t1" font-size="12" text-anchor="end">その他</text>
+<rect x="466.0" y="516.0" width="70.0" height="24.0" class="q1" rx="3"/>
+<text x="501.0" y="532.0" class="on-q1 n" font-size="11" text-anchor="middle">2</text>
+<rect x="682.0" y="516.0" width="70.0" height="24.0" class="q1" rx="3"/>
+<text x="717.0" y="532.0" class="on-q1 n" font-size="11" text-anchor="middle">1</text>
+<rect x="754.0" y="516.0" width="70.0" height="24.0" class="q1" rx="3"/>
+<text x="789.0" y="532.0" class="on-q1 n" font-size="11" text-anchor="middle">1</text>
+<text x="240.0" y="558.0" class="t1" font-size="12" text-anchor="end">リスク管理・戦略の合成</text>
+<rect x="322.0" y="542.0" width="70.0" height="24.0" class="q2" rx="3"/>
+<text x="357.0" y="558.0" class="on-q2 n" font-size="11" text-anchor="middle">3</text>
+<rect x="394.0" y="542.0" width="70.0" height="24.0" class="q5" rx="3"/>
+<text x="429.0" y="558.0" class="on-q5 n" font-size="11" text-anchor="middle">22</text>
+<rect x="466.0" y="542.0" width="70.0" height="24.0" class="q1" rx="3"/>
+<text x="501.0" y="558.0" class="on-q1 n" font-size="11" text-anchor="middle">1</text>
+<rect x="538.0" y="542.0" width="70.0" height="24.0" class="q1" rx="3"/>
+<text x="573.0" y="558.0" class="on-q1 n" font-size="11" text-anchor="middle">1</text>
+<rect x="610.0" y="542.0" width="70.0" height="24.0" class="q1" rx="3"/>
+<text x="645.0" y="558.0" class="on-q1 n" font-size="11" text-anchor="middle">1</text>
+<text x="240.0" y="584.0" class="t1" font-size="12" text-anchor="end">執行・コスト</text>
+<rect x="250.0" y="568.0" width="70.0" height="24.0" class="q1" rx="3"/>
+<text x="285.0" y="584.0" class="on-q1 n" font-size="11" text-anchor="middle">1</text>
+<rect x="322.0" y="568.0" width="70.0" height="24.0" class="q2" rx="3"/>
+<text x="357.0" y="584.0" class="on-q2 n" font-size="11" text-anchor="middle">3</text>
+<rect x="394.0" y="568.0" width="70.0" height="24.0" class="q2" rx="3"/>
+<text x="429.0" y="584.0" class="on-q2 n" font-size="11" text-anchor="middle">3</text>
+<text x="240.0" y="610.0" class="t1" font-size="12" text-anchor="end">検証の方法</text>
+<rect x="250.0" y="594.0" width="70.0" height="24.0" class="q1" rx="3"/>
+<text x="285.0" y="610.0" class="on-q1 n" font-size="11" text-anchor="middle">1</text>
+<rect x="394.0" y="594.0" width="70.0" height="24.0" class="q5" rx="3"/>
+<text x="429.0" y="610.0" class="on-q5 n" font-size="11" text-anchor="middle">28</text>
+<rect x="466.0" y="594.0" width="70.0" height="24.0" class="q1" rx="3"/>
+<text x="501.0" y="610.0" class="on-q1 n" font-size="11" text-anchor="middle">1</text>
+<rect x="754.0" y="594.0" width="70.0" height="24.0" class="q4" rx="3"/>
+<text x="789.0" y="610.0" class="on-q4 n" font-size="11" text-anchor="middle">19</text>
+<text x="240.0" y="648.0" class="mu" font-size="11" text-anchor="end">件数</text>
+<rect x="250.0" y="638.0" width="14.0" height="14.0" class="q1" rx="2"/>
+<text x="269.0" y="649.0" class="t2 n" font-size="11" text-anchor="start">1〜2</text>
+<rect x="308.3" y="638.0" width="14.0" height="14.0" class="q2" rx="2"/>
+<text x="327.3" y="649.0" class="t2 n" font-size="11" text-anchor="start">3〜5</text>
+<rect x="366.6" y="638.0" width="14.0" height="14.0" class="q3" rx="2"/>
+<text x="385.6" y="649.0" class="t2 n" font-size="11" text-anchor="start">6〜10</text>
+<rect x="431.1" y="638.0" width="14.0" height="14.0" class="q4" rx="2"/>
+<text x="450.1" y="649.0" class="t2 n" font-size="11" text-anchor="start">11〜20</text>
+<rect x="501.8" y="638.0" width="14.0" height="14.0" class="q5" rx="2"/>
+<text x="520.8" y="649.0" class="t2 n" font-size="11" text-anchor="start">21〜</text>
+</svg>

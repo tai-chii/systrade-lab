@@ -1,0 +1,10 @@
+{
+ "verification-lab/tools/composite_gate.py": [
+  {
+   "旧": "30a4cc7ecc8100457ecf4962533fe3142695eedfadb7d8549e73241ef8ecd53c",
+   "新": "78f9a8976a7c4738aa3b5fc6090cb723901086ac9efc3100517cc1634982e060",
+   "理由": "判断待ち 45（taichi「B」・2026-11-17 02:18）で gate の既定の比べる相手を 3→6 本にした。S44・S53 は kensho_s41_refine_q613_q614.py が import するだけで gate を呼ばない（forward_s44.py・forward_s53.py が使うのは R.B・C・E・J・K・P・Q・W）。記録の計算は不変",
+   "承認": "taichi「Aで入れて」2026-11-17 20:37"
+  }
+ ]
+}

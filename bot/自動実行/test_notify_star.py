@@ -1,0 +1,23 @@
+import os, sys, tempfile, json
+sys.path.insert(0, "/Users/goyataichi/ワークスペース/検証/自動実行"); import notify_star as N
+d = tempfile.mkdtemp(); f = os.path.join(d, "要対応.md"); s = os.path.join(d, "seen.json")
+real = open("/Users/goyataichi/ワークスペース/検証/自動実行/要対応.md", encoding="utf-8").read(); open(f, "w", encoding="utf-8").write(real)
+sent = []; N.notify = lambda t, b: sent.append((t, b))
+def run(): sent.clear(); N.main(["--file", f, "--seen", s]); return list(sent)
+def add(x): open(f, "a", encoding="utf-8").write(x)
+ok = []
+ok.append(("1 初回は通知しない", run() == []))
+ok.append(("2 何も足さなければ通知しない", run() == []))
+add("\n\n## 2026-11-05 15:40 — ★ winnote の S21 執行が止まっている恐れ（自動・make_状態.py）\n- 状態: 未解決\n- execute_mt5.py が動いていない\n")
+r = run(); ok.append(("3 bot の停止の ★ を 1 件通知", len(r) == 1 and "止まっている" in r[0][1] and "★" in r[0][0]))
+ok.append(("4 同じ節は 2 度通知しない", run() == []))
+add("\n\n## 2026-11-05 16:00 — 手で書いた解決の節\n- 状態: 解決\n")
+ok.append(("5 ★ の無い解決の節は通知しない", run() == []))
+add("\n\n## 2026-11-05 16:10 — S21 の まとめ配備（①②④）が済んだ（自動・待って配備.sh）\n- 状態: 解決\n")
+r = run(); ok.append(("6 自動の節は解決でも通知", len(r) == 1 and "まとめ配備" in r[0][1]))
+add("".join(f"\n\n## 2026-11-05 17:0{i} — ★ 試し {i}\n- 状態: 未解決\n" for i in range(5)))
+r = run(); ok.append(("7 5 件は 3 件＋まとめ 1 件", len(r) == 4 and "ほか 2 件" in r[-1][1]))
+add("\n\n## 2026-11-05 18:00 — ★ 判断待ち\n- 状態: 承認済み・配備待ち\n")
+ok.append(("8 ★ でも未解決でなければ通知しない", run() == []))
+for n, g in ok: print("合格" if g else "不合格", n)
+print("全部合格" if all(g for _, g in ok) else "不合格あり"); sys.exit(0 if all(g for _, g in ok) else 1)

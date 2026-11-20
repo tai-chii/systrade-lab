@@ -1,0 +1,2 @@
+2026-10-26 環境確認（verify_env.py）: Q534 E1 の 2024 年度を再現 n=2694 mean_R=0.0325 sum=87（記録と完全一致）。
+VM: Python 3.10.12・numpy 1.26.4・pandas 2.3.3・lightgbm 4.7.0・scikit-learn 1.5.2。common.py の to_numpy 互換で一致。

@@ -1,0 +1,104 @@
+{
+ "model_s0_a0.txt": "977e4b6ecc40539e0bf2db83782ee5125c079fba7df4a4b306f8d4f127874bc4",
+ "model_s0_a1.txt": "ce397704ed72729ab56f815595280bd7fd762dcd65686c74ba61804210d4de26",
+ "model_s0_a2.txt": "d7075795069c9e629ebb446fd705b17c4667e24e2c238c1c058a08c76d999412",
+ "model_s0_a3.txt": "facbfc074ef00724ccb147153e073dab7718a6e46bc9facf7ba9cef0bd8305ea",
+ "model_s0_a4.txt": "924dafd3b80427af4e91258f61310028c0b61e1327c65e30b13ffc03ed4308fb",
+ "model_s0_a5.txt": "aaa026be8dbd1995ee0b213a5d2e0a0f9508fe679ef89ae17857460283daa6f4",
+ "model_s1_a0.txt": "293e727353baec3d5cc52e9128ae6894f8ffd02107d70f71eb8b05f22b4aa1c5",
+ "model_s1_a1.txt": "9e4652f749bf1511b62f82a09f9699e09a0c70d751374d2dab828253a24272c8",
+ "model_s1_a2.txt": "6ea62ef19bda85616888aa48d7352d7525ecdc8ba8db6555ade12a10a756b9e3",
+ "model_s1_a3.txt": "0972df105b2269b4317804d5057a5e3a316561f9bca8055210ca050685ed0882",
+ "model_s1_a4.txt": "4317d04391bbb19a7dc1db917794f214cee29fa2ee764dc704d51102acd3fa25",
+ "model_s1_a5.txt": "46e619630a896b0f6f7648738fac2507279933012b1a4f4661886a52a34a19e9",
+ "model_s2_a0.txt": "c66cb4dd2b8ce22de73ca66653b781f8e971d5d4e9978e05d4f88941ea41b816",
+ "model_s2_a1.txt": "a4adad34c3a0806eea9d74906b9fe8b0ab06d2d543457517b3b6cd3032a13abb",
+ "model_s2_a2.txt": "3131229bb44f6b3908ebc52b79b7abe1177db1391c1959c28796df38fd0fc602",
+ "model_s2_a3.txt": "a284a1739ca0385afe5964cb3694aabc8ed9d020e2afbb337c1f0cc437777541",
+ "model_s2_a4.txt": "3c8a41c633347b16f89fba7bf12b1b4739d1cb4b0936f18ea09816888c61f2b1",
+ "model_s2_a5.txt": "ba01fa68bfbee36b89b8182fe6d3672c34b59f0d01235e523e0635abf2943d75",
+ "model_s3_a0.txt": "0659c2305042ad98d8887764b933ca3e3b9b9c14146ba428c7fbf76c6a743f30",
+ "model_s3_a1.txt": "0434ea4130d5b5f74850b332d55452f083e99bddafb175e23935ee7be40d3c0a",
+ "model_s3_a2.txt": "0e04b0373e514ae2ec5dbef0eb0309379b7f02490ea15e1072c9a36518bc50d6",
+ "model_s3_a3.txt": "3a5d9dd8d2f35643461e96f722d137628325a5b7b5d1e87456345f75207c7fc4",
+ "model_s3_a4.txt": "1dffb443e2be9e392d1f30fae28cac5afffd4a5ecac1a04b2ccb1e39925bbd8e",
+ "model_s3_a5.txt": "72826aa4e6f7b2091a09af5abda549dc41db68c4e57749c3eab5a96ff04191c1",
+ "model_s4_a0.txt": "e1acdf2d9492f9bf9d055e2d429fe618aa0c35bcb8074baf5ae549d5e284ebef",
+ "model_s4_a1.txt": "c5f140a440af85eb8b4593d88ccecdd3f6f2778df1dd65d82a69cd5d43f1e1cf",
+ "model_s4_a2.txt": "8d98ae37272fbf349d3d37a530e81f8a8c076651374803c3f86bcb537ee74791",
+ "model_s4_a3.txt": "5a5ccd541462dd750ae544e33ff4a15caea17c51eed9b38caad9d449d0838b44",
+ "model_s4_a4.txt": "982e0a3108e346e800c22a67a74ea768e3390b4ff0cf965a04e5093f14e5ce3e",
+ "model_s4_a5.txt": "e2e4ecf706bc6e98d6e9742e7dfef85698ad726cf422085bee9204aa5dcd20c4",
+ "model_s5_a0.txt": "cad433ee67746405398fcdd3d5ca7b75b67988f3e053ccb46197472aab9dcc09",
+ "model_s5_a1.txt": "748958a853e5a313051a53f6c066ec77f750ee2a92d8b597eaf21f95236551ba",
+ "model_s5_a2.txt": "8a0b4d866eeab65a66987c0e1b61e0b110ccb867a2692fbb52c3a7a62398e9b7",
+ "model_s5_a3.txt": "acb29c7e65bd420e841a618fc59b9b52d957ce170a8924d347acec13b5f130e1",
+ "model_s5_a4.txt": "ddc94f23bd032d79b2c12f78752f8961c3c8d457554ed7919f47e65e3fd1bf1e",
+ "model_s5_a5.txt": "865784fe941072f064ce3e700cf2fbc0567ff2eb767f356d1c3f9ab0a5de6dff",
+ "model_s6_a0.txt": "7d25ae36ce169e303f6d8b69204b91e536036974e550c06442b61ddccb93171b",
+ "model_s6_a1.txt": "e4b01e42d8be362b1ba6c3ec123f71eef5d080e2fb462eab2b14f66bfe116899",
+ "model_s6_a2.txt": "4b37eff9aa9c804b716580d0a192f47a1d267ba9a587472e9382fac724822cce",
+ "model_s6_a3.txt": "d2ead00a240cbd03375f7cc343b53add748880b630784ece59eaea9856db5fe7",
+ "model_s6_a4.txt": "5a73166bd6ffe45291e0e9d74c7dea21b859ba28d824c7dea61174962fe6706c",
+ "model_s6_a5.txt": "e163b79e26e8a4dfbeb81d788d006624c288c3b6c18ad9362e28272580ea05b5",
+ "model_s7_a0.txt": "1efb5767f99425854db5bac1b59a7ca4eb6b8cee968f7c55899c79f1fb5de856",
+ "model_s7_a1.txt": "8b37137d7a2d550a6206e7ffb5978f6a0e26be100dc5edf3445c344f6898a6f8",
+ "model_s7_a2.txt": "4ed920fb46c40d110f50df30edf0cea4b0210e10914092e832515c730e90c728",
+ "model_s7_a3.txt": "c161306a13a823646e1daff7955ea3303e2a64347c783d2e093def17d079d3d7",
+ "model_s7_a4.txt": "8f804d164a1135a737c3d1d097ff80c2b347ed41f8d87783e10b81883b4a6dde",
+ "model_s7_a5.txt": "834584ecc4fe2c46ff0876d1cc238a9b7c1b902a02e81d1407b12336dad6c76a",
+ "model_s8_a0.txt": "080eb2f918e487547329c604692065d1b84789d2488c951a53a168ae56cdac76",
+ "model_s8_a1.txt": "90f13c0ae2af58b4248cd2d17592943167a53acedfb01f2ce4d775cb25c89435",
+ "model_s8_a2.txt": "cdaa038ba360292564c76d833cbf62d04664035290da9258569653b43206dc26",
+ "model_s8_a3.txt": "d38861d4171793887f6c8ff72414fa727fca6f4cda07ff3909dfc5ab40f58a73",
+ "model_s8_a4.txt": "718262601bce03bbe39ac6f7c558dfcdb232b3819f11e9f03a97fee1e19140b9",
+ "model_s8_a5.txt": "2f8e82158e996e19aa929ec8e9219f93e135aac6c3e4305cf6612757268273c8",
+ "kensho_s41_refine_q613_q614.py": "2227634268c75b06b34b39ab9707295c8a5139f37817fd0dc2307d7a5fd1a326",
+ "kensho_s41_h1_xmcost_q610.py": "f073df1d1929fae221c45ebe155b46b8c1cd6a509f73133d1ca92bde1c1a726d",
+ "学習行": 347659,
+ "学習の終わり": "2026-10-01 00:00:00+00:00",
+ "保存と学習直後の平均予測の最大差": 0.0,
+ "シード0とS44の最大差": 1.3877787807814457e-17,
+ "同等性（検証用と記録用の予測の相関）": {
+  "EURUSD": {
+   "n": 747,
+   "corr": 1.0
+  },
+  "GBPUSD": {
+   "n": 747,
+   "corr": 1.0
+  },
+  "AUDUSD": {
+   "n": 747,
+   "corr": 1.0
+  },
+  "NZDUSD": {
+   "n": 747,
+   "corr": 1.0
+  },
+  "USDJPY": {
+   "n": 747,
+   "corr": 1.0
+  },
+  "USDCHF": {
+   "n": 747,
+   "corr": 1.0
+  },
+  "USDCAD": {
+   "n": 747,
+   "corr": 1.0
+  },
+  "EURJPY": {
+   "n": 747,
+   "corr": 1.0
+  },
+  "GBPJPY": {
+   "n": 747,
+   "corr": 1.0
+  },
+  "EURGBP": {
+   "n": 747,
+   "corr": 1.0
+  }
+ }
+}

@@ -1,0 +1,27 @@
+{
+ "name": "OANDA_例",
+ "説明": "例（未確認）。OANDA 証券 東京サーバーの MT5 デモを開いたら、手順 1〜3 で値を確かめて埋める。今は使わない（11-05 決定: 実測は急がない）",
+ "account_currency": "JPY",
+ "exec": {
+  "tz": "nyclose",
+  "symbol_map": {},
+  "equity_override": 10000000,
+  "deviation_points": 20
+ },
+ "cost": {
+  "spread_label": "OANDA",
+  "spread_csv": "lab-ops/trade/winnote/S21/spreads_OANDA_*.csv",
+  "commission_per_lot_round": {
+   "FX": 0,
+   "IDX": 0,
+   "METAL": 0
+  },
+  "m_vs_dukascopy": null,
+  "m_の出どころ": "spread_report.py --label OANDA（2 週間）"
+ },
+ "確かめた日": {
+  "tz": "未確認（業者の案内か mt5_fetch.py --tz auto で）",
+  "symbol_map": "未確認（mt5_fetch.py --list）",
+  "equity_override": "XM と同じ考え（最小ロットが狙いの 1.5 倍以内）。preflight の最小ロットの倍率で確かめ直す"
+ }
+}

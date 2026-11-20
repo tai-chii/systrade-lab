@@ -1,0 +1,68 @@
+{
+ "凍結日": "2026-10-31 22:36",
+ "学習の規則": "x < 2026-01-01",
+ "学習行数": 238889,
+ "学習の t の範囲": [
+  "2005-12-30",
+  "2025-10-31"
+ ],
+ "凍結時のデータの最後": "2026-10-28",
+ "config": {
+  "LGB": {
+   "objective": "regression",
+   "learning_rate": 0.03,
+   "n_estimators": 300,
+   "num_leaves": 31,
+   "min_child_samples": 200,
+   "feature_fraction": 0.8,
+   "bagging_fraction": 0.8,
+   "bagging_freq": 1,
+   "lambda_l2": 1.0,
+   "verbose": -1,
+   "n_jobs": -1
+  },
+  "seeds": [
+   1,
+   2,
+   3
+  ],
+  "feats": [
+   "r_1w",
+   "r_1m",
+   "mom_6_1",
+   "mom_12_1",
+   "lt_rev_36_12",
+   "vol_20",
+   "vol_60",
+   "max_1m",
+   "skew_60",
+   "beta_252",
+   "ivol_60",
+   "dist_52wh",
+   "ma50",
+   "ma200",
+   "vshock_5_50",
+   "log_adv",
+   "amihud",
+   "log_px",
+   "zero_vol_60",
+   "turn_chg"
+  ],
+  "frac": 0.1,
+  "min_names": 300,
+  "lookback": 252,
+  "cfg": {
+   "cost": 0.001,
+   "minpx": 100.0,
+   "topn": 1000
+  },
+  "wait": "1日待ち"
+ },
+ "models": {
+  "model_seed1.txt": "5391ae5d6a742efe32ccc170af9a8c8b3deca23eb88b20e6ddfafb278b23c684",
+  "model_seed2.txt": "02106ca0cf040eda9546948ce0e77cb4f8c883e1de63e5348edd0299bd1ae089",
+  "model_seed3.txt": "960d1dc1a3bcc99fe49a2b9821a9318b928fa545535be25a0bc42c429a269728"
+ },
+ "q582_script": "1527bf50fdb98e95829abdfda03208ec5ce4dc327447e8a88f0eed441de22268",
+ "forward_s30.py": "23adfd4f72534497a1c78195138030d97eb5d7234baa15ee2b5c837e0e8f0c49"
+}

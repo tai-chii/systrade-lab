@@ -1,0 +1,9 @@
+{
+ "_データ/fetch/convert_histdata_m15.py": "fabc81518a1850e0f19f05e44efaf3c8bc0c8a63439f3d269dc7e512b8ebe12e",
+ "verification-lab/financial-engineering/s21-h1-ml-rr-weekcap-q515/kensho_s21_h1_ml_rr_q515.py": "8e6734b88ac4c815bc1c1d87067d6558812799f5f8e223f77fa376bd0d148aae",
+ "verification-lab/financial-engineering/s21-h1-ml-rr-weekcap-q515/kensho_s21_m1_resolve_q523.py": "8e8d1f5dc24cc486cbaa8ecf7fe85f29c0c9a2a039fa03c53a0effcf4f63d955",
+ "verification-lab/financial-engineering/s21-h1-ml-rr-weekcap-q515/kensho_s21_walkforward_q518.py": "2a055eeba9685b08a1b005abcf0b3e6577ad58ca5ded1d0cdeb210f7a7dda347",
+ "verification-lab/financial-engineering/s21-h1-ml-rr-weekcap-q515/kensho_s21d_relthr_wf_q519.py": "aa1a1f7a41b8a4e8a62750b281a7501a49b363f96aa0fb2a96df737a0052e494",
+ "verification-lab/financial-engineering/s21-h1-ml-rr-weekcap-q515/kensho_s21f_mtf_wf_q521.py": "bee0942f8f23e31fc1f1cabb24fcf365bf49683d9fa6cc4adead91547502f9e4",
+ "verification-lab/financial-engineering/s21-h1-ml-rr-weekcap-q515/kensho_s21f_newjpy_q524.py": "d38c8d327e347741c7207036ce5a2dc5e0b2f83d4ed0108320835d5a56c14032"
+}

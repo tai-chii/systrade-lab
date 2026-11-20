@@ -1,0 +1,2 @@
+month,auc,n,pct,位置,s21_n,s21_mean_R,s21_sum_R,読み,train_rows,auc_min_sym,auc_max_sym,run_at,sklearn,sec
+2026-10,0.542,7764,85.6,高,57,0.1005,5.73,易しい局面で稼いだ（期待どおり）,479046,EURGBP,USTECH,2026-11-10 09:46,1.9.1,93
